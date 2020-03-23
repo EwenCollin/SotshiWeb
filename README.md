@@ -18,6 +18,6 @@ And then that's it.
 
 ## Usage
 
-Command is : /web save <name> <url>
-Then put item frames on a wall designed on X axis of minecraft (16x9) and place a sign on a corner but one block bellow and type on it ".<name>".
+Command is : /web save \<name\> \<url\>
+Then put item frames on a wall designed on X axis of minecraft (16x9) and place a sign on a corner but one block bellow and type on it ".\<name\>".
 It should work, check the console if nothing happens.
