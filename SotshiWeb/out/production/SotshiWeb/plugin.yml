@@ -1,0 +1,13 @@
+name: SotshiWeb
+version: 0.0.1
+author: Sotshi
+main: net.ewenapps.mcplugins.sotshiweb.SotshiWeb
+api-version: "1.15"
+
+website: mcplugins.ewenapps.net
+
+commands:
+  map:
+    description: A command to render images into maps
+  web:
+    description: A command to render web pages into maps
